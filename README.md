@@ -15,3 +15,13 @@
 
 - Any subset of a frequent itemset must be also frequent
 - Any superset of an infrequent itemset must also be infrequent
+
+
+
+
+
+
+
+## Office Hour
+
+1. Association1  18#  32#
